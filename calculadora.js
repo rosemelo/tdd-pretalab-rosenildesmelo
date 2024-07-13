@@ -1,23 +1,23 @@
 class Calculadora {
-  soma(a,b){
+  soma(a, b){
     return a + b
   }
 } 
 
 class Calculadora {
-  subtracao(a,b){
+  subtracao(a, b){
     return a - b
   }
 } 
 
 class Calculadora {
-  multiplicacao(a,b){
+  multiplicacao(a, b){
     return a * b
   }
 } 
 
 class Calculadora {
-  divisao(a,b){
+  divisao(a, b){
     return a / b
   }
 } 

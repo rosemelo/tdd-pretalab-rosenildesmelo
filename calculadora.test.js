@@ -20,6 +20,10 @@ describe('Calculadora', () => {
 
   it('Deverá retornar a divisao entre dois números', () => {
     const calculadora = new Calculadora()
-    expect(calculadora.soma(6,3)).toEqual(2)
+    expect(calculadora.divisao(6,3)).toEqual(2)
   })
 })
+
+
+
+
