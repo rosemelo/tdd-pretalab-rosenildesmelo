@@ -17,7 +17,7 @@ class Queue {
   }
 
   peek() {
-    return this.elements{0}
+    return this.elements[0]
   }
 }
 

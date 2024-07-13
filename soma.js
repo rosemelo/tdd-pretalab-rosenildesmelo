@@ -14,8 +14,4 @@ function divisao(a,b) {
   return a / b;
 }
 
-
-module.exports = soma
-module.exports = subtracao
-module.exports = multiplicacao
-module.exports = divisao
+module.exports = { soma, subtracao, multiplicacao, divisao };
